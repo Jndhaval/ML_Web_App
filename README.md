@@ -6,16 +6,18 @@
 
 This project aims to predict heart disease using machine learning techniques. A predictive model have been developed that can help assess the likelihood of a person having heart disease based on various medical attributes.
 
-Key features of this project:
+## Dataset
+I used the [Heart Disease] dataset for this project. The dataset was taken from kaggle.
+
+## Features
 - Data preprocessing and exploratory data analysis.
 - Machine learning model development and evaluation.
 - Deployment using Streamlit for a user-friendly interface.
 
-## Dataset
+## Getting Started
+To get started with this project, follow these steps:
 
-I used the [Heart Disease] dataset for this project. The dataset was taken from kaggle.
-
-## Requirements
+### Prerequisites
 
 Make sure you have the following requirements installed:
 
