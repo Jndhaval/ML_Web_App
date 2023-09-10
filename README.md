@@ -10,16 +10,16 @@ This project aims to predict heart disease using machine learning techniques. A 
 I used the [Heart Disease] dataset for this project. The dataset was taken from kaggle.
 
 ## Features
+
 - Data preprocessing and exploratory data analysis.
 - Machine learning model development and evaluation.
 - Deployment using Streamlit for a user-friendly interface.
 
 ## Getting Started
+
 To get started with this project, follow these steps:
 
 ### Prerequisites
-
-Make sure you have the following requirements installed:
 
 - Python 3.x
 - Spyder (for development)
@@ -27,10 +27,21 @@ Make sure you have the following requirements installed:
 - Streamlit (for deployment)
 - Required Python libraries listed in `requirements.txt`
 
-## Installation
+### Installation
 
-1. Clone the repository:
+- Sequentially execute this code
 
    ```bash
-   git clone https://github.com/yourusername/heart-disease-prediction.git
-   cd heart-disease-prediction
+   - git clone https://github.com/yourusername/heart-disease-prediction.git
+   cd heart-disease-
+   - Create a virtual environment: python -m venv venv
+   - Activate virtual environment: venv\Scripts\activate
+   - Install the required packages: pip install -r requirements.txt
+   ```
+## Usage
+- Data Exploration and Model Development: Use Google Collab to explore the dataset, preprocess the data, and develop machine learning models.
+- To deploy the project locally, run the following command: streamlit run "location_of_file_with_.py".
+- Project have been deployed using Streamlit, you can access the live demo [here]([link to the deployed app](https://mlwebapp-ba3egy8nw4lt9vdnpt84bh.streamlit.app/)https://mlwebapp-ba3egy8nw4lt9vdnpt84bh.streamlit.app/).
+
+## Acknowledgments
+Special thanks to the contributors and open-source projects that provided inspiration, guidance, and tools for this project.
