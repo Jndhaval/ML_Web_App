@@ -30,14 +30,14 @@ To get started with this project, follow these steps:
 
    ```bash
    - git clone https://github.com/yourusername/heart-disease-prediction.git
-   - Create a virtual environment: python -m venv venv
-   - Activate virtual environment: venv\Scripts\activate
-   - Install the required packages: pip install -r requirements.txt
+   - python -m venv venv
+   - venv\Scripts\activate
+   - pip install -r requirements.txt
    ```
 ## Usage
 - Data Exploration and Model Development: Use Google Collab to explore the dataset, preprocess the data, and develop machine learning models.
 - To deploy the project locally, run the following command: streamlit run "location_of_file_with_.py".
-- Project have been deployed using Streamlit, you can access the live demo [here][https://mlwebapp-ba3egy8nw4lt9vdnpt84bh.streamlit.app/].
+- Project have been deployed using Streamlit, you can access the live demo [here](https://mlwebapp-ba3egy8nw4lt9vdnpt84bh.streamlit.app/).
 
 ## Acknowledgments
 Special thanks to the contributors and open-source projects that provided inspiration, guidance, and tools for this project.
